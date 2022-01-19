@@ -1,0 +1,41 @@
+Topic 0:
+la en 233 el 243 los se des del les
+Topic 1:
+exposure heat natural behaviour recovery comparison differential cycle unit fracture
+Topic 2:
+brain assessment index association education 15 reduction 18 11 16
+Topic 3:
+management cross multiple scale climate optimal context survey states matter
+Topic 4:
+self adults findings evidence young behaviors older implications visual anxiety
+Topic 5:
+induced rats injury il end uncertainty inflammatory muscle populations inflammation
+Topic 6:
+protein human gene mice molecular anti activation dna receptor vitro
+Topic 7:
+cancer energy spatial patterns urban temporal land breast lung variability
+Topic 8:
+experimental numerical optimization fluid particle energy structures technique stability strain
+Topic 9:
+treatment review therapy outcomes systematic trial efficacy meta controlled drug
+Topic 10:
+carbon synthesis metal magnetic nanoparticles electron composite optical ray oxide
+Topic 11:
+children term post short pre events evidence intervention event responses
+Topic 12:
+framework modeling policy decision processes yield techniques challenges applications recent
+Topic 13:
+patients food bone patient blood syndrome imaging acute diagnosis diabetes
+Topic 14:
+species networks linear wave sea deep nonlinear diversity classification basin
+Topic 15:
+field oil free air transport speed efficiency velocity mode dimensional
+Topic 16:
+multi 39 160 transfer strength practice capacity failure double internal
+Topic 17:
+stress cognitive processing task memory physical disorder behavioral load symptoms
+Topic 18:
+soil thermal acid formation plant concentrations organic pain composition gas
+Topic 19:
+evolution dynamic ii functional estimation identification rates generation supply practices
+60.140135049819946s, lda training
