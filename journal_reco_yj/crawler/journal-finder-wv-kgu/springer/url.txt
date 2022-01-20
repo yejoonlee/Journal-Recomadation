@@ -1,0 +1,9 @@
+1 , https://en.wikipedia.org/wiki/AAPG_Bulletin
+3 , https://en.wikipedia.org/wiki/Academic_Emergency_Medicine
+4 , https://en.wikipedia.org/wiki/Academic_Medicine_(journal)
+5 , https://en.wikipedia.org/wiki/Accounts_of_Chemical_Research
+8 , https://en.wikipedia.org/wiki/ACM_Computing_Surveys
+9 , https://en.wikipedia.org/wiki/ACM_Transactions_on_Computer_Systems
+10 , https://en.wikipedia.org/wiki/ACM_Transactions_on_Database_Systems
+11 , https://en.wikipedia.org/wiki/ACM_Transactions_on_Graphics
+12 , https://en.wikipedia.org/wiki/ACM_Transactions_on_Information_Systems

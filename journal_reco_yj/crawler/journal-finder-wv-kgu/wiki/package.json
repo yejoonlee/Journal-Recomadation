@@ -1,0 +1,23 @@
+{
+  "name": "journal_url_crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-mysql": "^1.0.1",
+    "axios": "^0.17.1",
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "curl": "^0.1.4",
+    "express": "^4.16.2",
+    "http": "0.0.0",
+    "mysql": "^2.15.0",
+    "request": "^2.83.0"
+  }
+}
